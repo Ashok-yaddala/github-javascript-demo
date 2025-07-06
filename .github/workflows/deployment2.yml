@@ -1,4 +1,4 @@
-name: Deployment1 demo
+name: Deployment2 demo
 on: push
 jobs:
  Lint:
